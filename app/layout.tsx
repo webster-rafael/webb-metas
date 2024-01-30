@@ -17,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="pt-br">
       <body
         className={`${dosis.variable} ${inter.variable} flex items-center flex-col mt-10 bg-neutral-900`}
       >
